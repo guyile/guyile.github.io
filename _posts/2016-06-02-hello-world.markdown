@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Hellor World!"
+title:      "Hello World!"
 date:       2016-06-02 12:00:00
 author:     "Waterstar"
 header-img: "img/post-bg-js-module.jpg"
