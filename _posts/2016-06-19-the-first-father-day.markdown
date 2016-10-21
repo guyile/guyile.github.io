@@ -6,7 +6,7 @@ date:       2016-06-19 23:32:00
 author:     "Waterstar"
 header-img: "img/post-bg-js-module.jpg"
 tags:
-    - 乐仔
+    - 乐乐
     - 父亲节
 ---
 

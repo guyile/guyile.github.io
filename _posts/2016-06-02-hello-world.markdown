@@ -5,7 +5,7 @@ date:       2016-06-02 12:00:00
 author:     "Waterstar"
 header-img: "img/post-bg-js-module.jpg"
 tags:
-    - 乐仔
+    - 乐乐
 ---
 
 <p><strong>Hello World! <br> You are my World.</strong></p>

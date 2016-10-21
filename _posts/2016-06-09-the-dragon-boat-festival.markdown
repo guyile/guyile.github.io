@@ -6,7 +6,7 @@ date:       2016-06-14 23:32:00
 author:     "Waterstar"
 header-img: "img/post-bg-js-module.jpg"
 tags:
-    - 乐仔
+    - 乐乐
 ---
 
 端午节回去，刚好产后42天，带老婆跟乐仔到医院检查。<br>
