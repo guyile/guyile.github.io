@@ -2,7 +2,7 @@
 layout:     post
 title:      "2016/10/21 21:05"
 subtitle:   ""
-date:       2016-10-21 21:02:00
+date:       2016-10-20 21:02:00
 author:     "Waterstar"
 header-img: "img/post-bg-js-module.jpg"
 tags:
@@ -14,12 +14,12 @@ tags:
 之前拍的照片发到这里来一下。
 
 
-![img](/img/in-post/2016102101/1.jpg)
-![img](/img/in-post/2016102101/2.jpg)
-![img](/img/in-post/2016102101/3.jpg)
-![img](/img/in-post/2016102101/4.jpg)
-![img](/img/in-post/2016102101/5.jpg)
-![img](/img/in-post/2016102101/6.jpg)
-![img](/img/in-post/2016102101/7.jpg)
-![img](/img/in-post/2016102101/8.jpg)
+![img](/img/in-post/2016102101/1.png)
+![img](/img/in-post/2016102101/2.png)
+![img](/img/in-post/2016102101/3.png)
+![img](/img/in-post/2016102101/4.png)
+![img](/img/in-post/2016102101/5.png)
+![img](/img/in-post/2016102101/6.png)
+![img](/img/in-post/2016102101/7.png)
+![img](/img/in-post/2016102101/8.png)
 
