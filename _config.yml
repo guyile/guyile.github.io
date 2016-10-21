@@ -1,9 +1,9 @@
 # Site settings
-title: 乐仔的成长记录
+title: 乐乐的成长记录
 SEOTitle: 辜亦乐
 header-img: img/post-bg-js-module.jpg
 email: waterstarsx@gmail.com
-description: "关于乐仔"
+description: "关于乐乐"
 keyword: "亦乐，辜亦乐"
 url: "https://github.com/waterstar2012"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
